@@ -11,7 +11,7 @@ const Hero = () => {
       id="home" className="w-full flex xl:flex-row flex-col justify-center min-h-screen gap-10 max-container">
         <div className="relative xl:w-2/5 flex flex-col justify-center items-start w-full max-xl:padding-x pt-28">
           <p className="text-lx font-montserrat text-coral-red mt-2">Our summer collection</p>
-          <h1 className="mt-10 font-palanquin text-[82px] max-sm:text-[720px] max-sm:leading-[82px] font-bold">
+          <h1 className="mt-10 font-palanquin text-[82px] max-sm:text-[72px] max-sm:leading-[82px] font-bold">
           <span className="xl:bg-white  xl:whitespace-nowrap relative z-10 pr-10">The new arrival</span><br />
           <span className="text-blue-500 inline-block mt-3">Adidas</span> <span className="font-kalnia">shoes</span></h1>
           <p className="text-slate-gray  text-lg leading-8 mt-6 mb-14 sm:max-w-sm font-[poppins]">Discover stylish Adidas originals arrivals, quality comfort, and innovation for your active life.</p>
